@@ -29,7 +29,7 @@ My name is Jitendra, but most people know me as Jitu.
 
 ### My GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumarjitu21)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumarjitu21&mode=weekly)](https://git.io/streak-stats)
 
 ### My Trophy
 
