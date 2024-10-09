@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Jitendra, but most people know me as Jitu.
+I'm a Software Engineer based in Bangalore, India.
 
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning Python and Data Science
-- 👯 I’m looking to collaborate on Software Engineering for AI/ML
-- 💬 Ask me about DevOps and Cloud
+- 🔭 Currently working on exciting projects
+- 🌱 Learning Python and Data Science
+- 👯 Open to collaborating on AI/ML Software Engineering
+- 💬 Feel free to ask me about DevOps and Cloud
 - ⚡ Fun fact: I ❤️ 🏸 & 🏏
 
 🔗 &nbsp;**Connect with me**
