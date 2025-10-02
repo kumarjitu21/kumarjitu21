@@ -29,7 +29,3 @@ I'm a Software Engineer based in Bangalore, India.
 ### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarjitu21&layout=compact)
-
-### My Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumarjitu21&row=1&column=7)](https://github.com/kumarjitu21/github-profile-trophy)
