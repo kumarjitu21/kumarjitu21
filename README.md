@@ -30,10 +30,6 @@ I'm a Software Engineer based in Bangalore, India.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarjitu21&layout=compact)
 
-### My GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumarjitu21&mode=weekly)](https://git.io/streak-stats)
-
 ### My Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kumarjitu21&row=1&column=7)](https://github.com/kumarjitu21/github-profile-trophy)
