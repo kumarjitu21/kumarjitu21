@@ -21,11 +21,3 @@ I'm a Software Engineer based in Bangalore, India.
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kumarjitu21&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 --->
-
-### Github stats
-
-![Jitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumarjitu21&show_icons=true&theme=radical)
-
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarjitu21&layout=compact)
